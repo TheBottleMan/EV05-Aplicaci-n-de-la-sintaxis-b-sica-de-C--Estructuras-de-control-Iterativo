@@ -1,0 +1,14 @@
+C:\Users\firec\Desktop\EV05 C#\Retos\bin\Debug\net10.0\Retos.exe
+C:\Users\firec\Desktop\EV05 C#\Retos\bin\Debug\net10.0\Retos.deps.json
+C:\Users\firec\Desktop\EV05 C#\Retos\bin\Debug\net10.0\Retos.runtimeconfig.json
+C:\Users\firec\Desktop\EV05 C#\Retos\bin\Debug\net10.0\Retos.dll
+C:\Users\firec\Desktop\EV05 C#\Retos\bin\Debug\net10.0\Retos.pdb
+C:\Users\firec\Desktop\EV05 C#\Retos\obj\Debug\net10.0\Retos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firec\Desktop\EV05 C#\Retos\obj\Debug\net10.0\Retos.AssemblyInfoInputs.cache
+C:\Users\firec\Desktop\EV05 C#\Retos\obj\Debug\net10.0\Retos.AssemblyInfo.cs
+C:\Users\firec\Desktop\EV05 C#\Retos\obj\Debug\net10.0\Retos.csproj.CoreCompileInputs.cache
+C:\Users\firec\Desktop\EV05 C#\Retos\obj\Debug\net10.0\Retos.dll
+C:\Users\firec\Desktop\EV05 C#\Retos\obj\Debug\net10.0\refint\Retos.dll
+C:\Users\firec\Desktop\EV05 C#\Retos\obj\Debug\net10.0\Retos.pdb
+C:\Users\firec\Desktop\EV05 C#\Retos\obj\Debug\net10.0\Retos.genruntimeconfig.cache
+C:\Users\firec\Desktop\EV05 C#\Retos\obj\Debug\net10.0\ref\Retos.dll
